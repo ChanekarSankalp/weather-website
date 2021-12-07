@@ -1,7 +1,3 @@
-console.log('chalra hai boss.')
-
-
-
 const weatherForm = document.querySelector('Form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
